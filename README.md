@@ -3,8 +3,8 @@
 One line about office life, written to make the AI judge laugh.
 
 [![Make.fun](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/donatfarm01/make-the-ai-judge-laugh/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
-[![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/donatfarm01/make-the-ai-judge-laugh/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![Rank](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/donatfarm01/make-the-ai-judge-laugh-melon/rank.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
+[![Reward](https://make.fun/badge/u-rama-melon-make-the-ai-judge-laugh-302d0825/donatfarm01/make-the-ai-judge-laugh-melon/reward.svg)](https://make.fun/bounty/u-rama-melon-make-the-ai-judge-laugh-302d0825)
 
 ## The entry
 
